@@ -14,7 +14,7 @@
             "name": "Data Structure",
             "description": "Explore data structures and applications. Includes arrays, linked lists, trees, and graphs.",
             "price": 249,
-            "credits": 2,
+            "credits": 4,
             "image": "https://i.ibb.co/ysDs0zD/data.png"
         },
         {
@@ -54,7 +54,7 @@
             "name": "Problem-Solving",
             "description": "Enhance problem-solving skills. Develop systematic approaches to complex problems and find effective solutions.",
             "price": 149,
-            "credits": 1,
+            "credits": 3,
             "image": "https://i.ibb.co/JQFXmTn/prob.png"
         },
         {
@@ -62,7 +62,7 @@
             "name": "Introduction to C++ for DSA",
             "description": "Intro to C++ for data structures and algorithms. In-depth understanding of C++ for implementation.",
             "price": 249,
-            "credits": 2,
+            "credits": 4,
             "image": "https://i.ibb.co/85Hd43f/programib-c.png"
         },
         {
