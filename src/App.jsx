@@ -6,6 +6,8 @@ import Heading from './Components/Heading/Heading'
 import Showinfos from './Components/ShowInfos/Showinfos'
 import Swal from 'sweetalert2'
 
+
+
 function App() {
 
    const [courses,setCourse] =useState([])
@@ -23,7 +25,7 @@ function App() {
         return Swal.fire({
           icon: 'error',
           title: 'Oops...',
-          text: 'Allready Buy!',
+          text: 'Already Selected!',
        
         })
        }
