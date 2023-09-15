@@ -13,7 +13,7 @@
      },[])
     return (
         <div>
-               <div className='grid grid-cols-3 gap-5 mb-10 flex-1'>
+               <div className='grid lg:grid-cols-3 grid-cols-1 gap-5 mb-10 lg:flex-1'>
                 {
                     courses.map(cours => <Card 
                         cours={cours}

@@ -58,10 +58,10 @@ function App() {
   }
   return (
     <>
-     <div className='mx-auto max-w-screen-xl'>
+     <div className='mx-auto max-w-screen-xl lg:px-0 px-5 '>
         <Heading></Heading>
       
-         <div className=' flex gap-4   mt-5 '>
+         <div className=' flex gap-4 lg:flex-row flex-col  mt-5 '>
 
              <Cards HandleBtn={HandleBtn} ></Cards>
              <Showinfos courses={courses} TotalCredit={TotalCredit} MinusCredit={MinusCredit} Totalprice={Totalprice} ></Showinfos>

@@ -6,7 +6,7 @@ const Card = ({cours,HandleBtn}) => {
     return (
         <div>
             
-            <div className="card w-[320px]  bg-[#FFFFFF] shadow-xl">
+            <div className="card lg:w-[320px]  bg-[#FFFFFF] shadow-xl">
   <figure className="px-5 pt-5">
     <img src={image} alt="imges" className="rounded-xl" />
   </figure>
