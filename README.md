@@ -3,7 +3,9 @@
 
   1. User can buy the course of their choice by clicking on select button here.
   2. As the user clicks on each course card, the details and price of that coruse will be displayed.
-  3. User cannot click a card a second time and cannot purchase more than  20 credits. 
+  3. User cannot click a card a second time and cannot purchase more than  20 credits.
+
+     # live link : http://ph.course-trade.surge.sh
 
 
   # How can i manage my state in this project
