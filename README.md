@@ -5,6 +5,10 @@
   2. As the user clicks on each course card, the details and price of that coruse will be displayed.
   3. User cannot click a card a second time and cannot purchase more than  20 credits.
 
+  ## Use Technologics :
+  .Tailwind .React .javascript .json
+
+      # Name : Course Registration
      # live link : http://ph.course-trade.surge.sh
 
 
