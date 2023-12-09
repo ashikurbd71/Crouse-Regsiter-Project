@@ -8,10 +8,13 @@
   ## Use Technologics :
   .Tailwind .React .javascript .json
 
-      # Name : Course Registration
-     # live link : http://ph.course-trade.surge.sh
+   
 
 
   # How can i manage my state in this project
 
   Fristly i can declare a state in app.jsx file cause we can share props from parent to chilld.also declare a events handleer funaction for handle  the event.App.jsx send a props to his cliid component and the button we clicked it can get the handle function  then the onclick withthat and if we click the button then a parameter  is send to the  app.jsx file event handler function and the function update the state value .in this way manage my state in this propject....
+
+
+     # Name : Course Registration
+     # live link : http://ph.course-trade.surge.sh
